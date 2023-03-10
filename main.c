@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Nasr_50");
+    printf("Nasr");
     return 0;
 }
